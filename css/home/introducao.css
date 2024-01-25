@@ -27,11 +27,7 @@
   border-radius: 4px;
 }
 .introducao h1{
-  margin-bottom: 32px;
-  font-size: 64px;
-  line-height: 1.125;
-  font-family: 'Poppins';
-  font-weight: 600;
+  margin-bottom: 32px; 
 }
 
 .introducao h1 span{
